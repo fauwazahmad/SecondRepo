@@ -1,1 +1,4 @@
 Hi I ma learning git 
+
+1. Mango
+2. Bangit banana
