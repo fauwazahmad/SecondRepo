@@ -2,3 +2,6 @@ Hi I ma learning git
 
 1. dog 
 2. cat
+
+3. Lion
+4. Tiger
