@@ -9,8 +9,14 @@ Hi I ma learning git
 5.Onion
 6.Potato
 
+
 thank you
 
 8. bringle
 
+<<<<<<< HEAD
 9. Soya
+=======
+7. tomato
+
+>>>>>>> 852d04939c86e4a1ddd3f49979429738d93c6322
